@@ -31,7 +31,12 @@ A modern platform for learning micro-content through short, focused videos. Crea
 - **State Management**: React Context API
 
 ## 📸 App Screenshot
-<img src="img1" width="350"/>
+<img src="img6.png" width="350"/>
+<img src="img5.png" width="350"/>
+<img src="img4.png" width="350"/>
+<img src="img3.png" width="350"/>
+<img src="img2.png" width="350"/>
+<img src="img1.png" width="350"/>
 
 
 ## 📦 Project Structure
@@ -391,4 +396,5 @@ This project is provided as-is for educational purposes.
 ## 🤝 Support
 
 For issues or questions, please refer to the documentation or contact the development team.
+
 
