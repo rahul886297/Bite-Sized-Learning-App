@@ -30,6 +30,10 @@ A modern platform for learning micro-content through short, focused videos. Crea
 - **HTTP Client**: Axios with JWT interceptors
 - **State Management**: React Context API
 
+## 📸 App Screenshot
+<img src="img1" width="350"/>
+
+
 ## 📦 Project Structure
 
 ```
@@ -387,3 +391,4 @@ This project is provided as-is for educational purposes.
 ## 🤝 Support
 
 For issues or questions, please refer to the documentation or contact the development team.
+
